@@ -1,0 +1,23 @@
+//inputs
+	NET binaryinput<0> LOC = F12;
+	NET binaryinput<1> LOC = G12;
+	NET binaryinput<2> LOC = H14;
+	NET binaryinput<3> LOC = H13;
+	NET binaryinput<4> LOC = J14;
+	NET binaryinput<5> LOC = J13;
+	NET binaryinput<6> LOC = K14;
+	NET binaryinput<7> LOC = K13;
+	NET clk LOC = T9;
+	NET rst LOC = L14;
+//outputs
+	NET led_anode<3> LOC = E13;
+	NET led_anode<2> LOC = F14;
+	NET led_anode<1> LOC = G14;
+	NET led_anode<0> LOC = D14;
+	NET led_cathode<0> LOC = E14;
+	NET led_cathode<1> LOC = G13;
+	NET led_cathode<2> LOC = N15;
+	NET led_cathode<3> LOC = P15;
+	NET led_cathode<4> LOC = R16;
+	NET led_cathode<5> LOC = F13;
+	NET led_cathode<6> LOC = N16;
