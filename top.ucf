@@ -1,3 +1,4 @@
+//Connect inputs and outputs of top module to respective ports in Digilent Spartan 3
 //inputs
 	NET binaryinput<0> LOC = F12;
 	NET binaryinput<1> LOC = G12;
